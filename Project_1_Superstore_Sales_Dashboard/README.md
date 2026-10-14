@@ -90,5 +90,6 @@ Based on the dashboard visualizations:
 ## 📂 Project Files
 
 - `Super_Store_Sales_Dashboard.pbix` – Power BI dashboard file
-- `Dashboard.jpg` – Dashboard screenshot
+- `Sales_Dashboard.jpg` – Dashboard screenshot
+- `SuperStore_Sales_Dataset.csv` – CSV file
 - `README.md` – Project documentation
